@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>TestNG:  Test2</title>
+<title>TestNG:  RegressionTests</title>
 <link href="../testng.css" rel="stylesheet" type="text/css" />
 <link href="../my-testng.css" rel="stylesheet" type="text/css" />
 
@@ -53,15 +53,15 @@ function toggleAllBoxes() {
 
 </head>
 <body>
-<h2 align='center'>Test2</h2><table border='1' align="center">
+<h2 align='center'>RegressionTests</h2><table border='1' align="center">
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Mon Aug 18 12:10:56 IST 2025</td>
+<td>Started on:</td><td>Mon Aug 18 12:19:38 IST 2025</td>
 </tr>
-<tr><td>Total time:</td><td>8 seconds (8606 ms)</td>
+<tr><td>Total time:</td><td>8 seconds (8646 ms)</td>
 </tr><tr>
-<td>Included groups:</td><td></td>
+<td>Included groups:</td><td>regression </td>
 </tr><tr>
 <td>Excluded groups:</td><td></td>
 </tr>
@@ -78,13 +78,13 @@ function toggleAllBoxes() {
 <tr>
 <td title='javaselenium1.ParaBankTestingBoth.Login()'><b>Login</b><br>Test class: javaselenium1.ParaBankTestingBoth</td>
 <td><div><pre>org.testng.TestNGException: 
-Data Provider public java.lang.Object[][] javaselenium1.DataProviders.getLoginData() returned a null value
+Method public void javaselenium1.ParaBankTestingBoth.Login(java.lang.String,java.lang.String) throws java.lang.InterruptedException requires a @DataProvider named : logInTestData
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
-... Removed 24 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1493158871", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1493158871'><pre>org.testng.TestNGException: 
-Data Provider public java.lang.Object[][] javaselenium1.DataProviders.getLoginData() returned a null value
-	at org.testng.internal.invokers.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:161)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:809)
+... Removed 24 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace204805934", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace204805934'><pre>org.testng.TestNGException: 
+Method public void javaselenium1.ParaBankTestingBoth.Login(java.lang.String,java.lang.String) throws java.lang.InterruptedException requires a @DataProvider named : logInTestData
+	at org.testng.internal.Parameters.findDataProvider(Parameters.java:532)
+	at org.testng.internal.Parameters.handleParameters(Parameters.java:769)
 	at org.testng.internal.Parameters.handleParameters(Parameters.java:734)
 	at org.testng.internal.invokers.ParameterHandler.handleParameters(ParameterHandler.java:72)
 	at org.testng.internal.invokers.ParameterHandler.createParameters(ParameterHandler.java:51)
@@ -110,7 +110,7 @@ Data Provider public java.lang.Object[][] javaselenium1.DataProviders.getLoginDa
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
 </pre></div></td>
 <td>0</td>
-<td>javaselenium1.ParaBankTestingBoth@222545dc</td></tr>
+<td>javaselenium1.ParaBankTestingBoth@72d1ad2e</td></tr>
 </table><p>
 </body>
 </html>
