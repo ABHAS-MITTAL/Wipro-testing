@@ -1,0 +1,112 @@
+[2025-08-18 17:05:07] INFO  TestNGListeners - ==== Suite Started: Smoke Tests ====
+[2025-08-18 17:05:07] INFO  TestNGListeners - ==== Suite Finished: Smoke Tests ====
+[2025-08-18 17:08:33] INFO  TestNGListeners - ==== Suite Started: Smoke Tests ====
+[2025-08-18 17:08:33] INFO  TestNGListeners - ==== Suite Finished: Smoke Tests ====
+[2025-08-18 17:12:46] INFO  TestNGListeners - ==== Suite Started: Smoke Tests ====
+[2025-08-18 17:12:46] INFO  TestNGListeners - ==== Suite Finished: Smoke Tests ====
+[2025-08-18 17:14:39] INFO  TestNGListeners - ==== Suite Started: Smoke Tests ====
+[2025-08-18 17:14:39] INFO  TestNGListeners - ==== Suite Finished: Smoke Tests ====
+[2025-08-19 16:29:20] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-19 16:29:23] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-19 16:29:24] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar10
+[2025-08-19 16:29:27] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar10 (already exists)
+[2025-08-19 16:29:27] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh10
+[2025-08-19 16:29:29] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh10 (already exists)
+[2025-08-19 16:29:29] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas1
+[2025-08-19 16:29:31] WARN  ParaBankTestingBoth - Registration failed for username: Abhas1 (already exists)
+[2025-08-19 16:29:31] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya3
+[2025-08-19 16:29:33] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya3 (already exists)
+[2025-08-19 16:29:33] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-19 16:29:33] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-19 16:29:33] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-19 16:29:33] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-19 16:29:33] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-19 16:29:33] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-19 16:29:33] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-19 16:29:33] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-19 16:29:51] ERROR ParaBankTestingBoth - Login failed for user: Ghosh10
+[2025-08-19 16:29:52] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-19 16:35:24] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-19 16:35:28] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-19 16:35:29] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar10
+[2025-08-19 16:35:32] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar10 (already exists)
+[2025-08-19 16:35:32] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh10
+[2025-08-19 16:35:34] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh10 (already exists)
+[2025-08-19 16:35:34] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas1
+[2025-08-19 16:35:37] WARN  ParaBankTestingBoth - Registration failed for username: Abhas1 (already exists)
+[2025-08-19 16:35:37] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya3
+[2025-08-19 16:35:40] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya3 (already exists)
+[2025-08-19 16:35:40] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-19 16:35:40] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-19 16:35:40] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-19 16:35:40] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-19 16:35:40] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-19 16:35:40] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-19 16:35:40] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-19 16:35:40] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-19 16:35:58] ERROR ParaBankTestingBoth - Login failed for user: Ghosh10
+[2025-08-19 16:35:59] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2025-08-19 17:22:13] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\AppData\Local\Temp\testng-eclipse-1967318791\testng-customsuite.xml
+
+[2025-08-19 17:22:13] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2025-08-19 17:22:14] INFO  Utils - [ThreadUtil] Starting executor timeOut:0ms workers:2 threadPoolSize:2
+[2025-08-19 17:22:14] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@7100dea: 43 ms
+[2025-08-19 17:22:14] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6342d610: 21 ms
+[2025-08-19 17:22:14] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@74ecacc3: 13 ms
+[2025-08-19 17:22:14] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@642f9a77: 7 ms
+[2025-08-19 17:22:14] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@119aa36: 5 ms
+[2025-08-19 17:22:14] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4e1a46fb: 0 ms
+[2025-08-19 17:22:52] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-19 17:22:52] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-19 17:22:56] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-19 17:22:56] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar10
+[2025-08-19 17:22:59] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar10 (already exists)
+[2025-08-19 17:22:59] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh10
+[2025-08-19 17:23:01] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh10 (already exists)
+[2025-08-19 17:23:01] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas1
+[2025-08-19 17:23:04] WARN  ParaBankTestingBoth - Registration failed for username: Abhas1 (already exists)
+[2025-08-19 17:23:04] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya3
+[2025-08-19 17:23:06] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya3 (already exists)
+[2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-19 17:23:24] ERROR ParaBankTestingBoth - Login failed for user: Bhagya3
+[2025-08-19 17:23:25] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully

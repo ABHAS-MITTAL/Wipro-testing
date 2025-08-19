@@ -1,0 +1,26 @@
+[17:00:17] [WARN] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: SaiSundar10
+[17:00:20] [WARN] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Ghosh10
+[17:00:22] [WARN] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Abhas1
+[17:00:24] [WARN] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Bhagya3
+[17:00:42] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: Ghosh10
+[17:00:42] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Ghosh10
+[17:00:52] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: SaiSundar10
+[17:00:52] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: SaiSundar10
+[17:01:02] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: SaiSundar10
+[17:01:02] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: SaiSundar10
+[17:01:13] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: Abhas1
+[17:01:13] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Abhas1
+[17:01:23] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: Abhas1
+[17:01:23] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Abhas1
+[17:01:33] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: Ghosh10
+[17:01:33] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Ghosh10
+[17:01:43] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: Bhagya3
+[17:01:43] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Bhagya3
+[17:01:53] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: Bhagya3
+[17:01:53] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Bhagya3
+[17:07:28] [WARN] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: SaiSundar10
+[17:07:30] [WARN] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Ghosh10
+[17:07:33] [WARN] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Abhas1
+[17:07:35] [WARN] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Bhagya3
+[17:07:53] [WARN] ParaBankTestingBoth - ERROR: Login failed for user: Ghosh10
+[17:07:53] [WARN] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Ghosh10

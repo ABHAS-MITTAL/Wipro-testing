@@ -1,0 +1,33 @@
+[17:00:14] [INFO] ParaBankTestingBoth - INFO: Browser launched successfully with URL: https://parabank.parasoft.com/
+[17:00:17] [INFO] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: SaiSundar10
+[17:00:20] [INFO] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Ghosh10
+[17:00:22] [INFO] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Abhas1
+[17:00:24] [INFO] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Bhagya3
+[17:00:42] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: Ghosh10
+[17:00:42] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Ghosh10
+[17:00:52] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: SaiSundar10
+[17:00:52] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: SaiSundar10
+[17:01:02] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: SaiSundar10
+[17:01:02] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: SaiSundar10
+[17:01:13] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: Abhas1
+[17:01:13] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Abhas1
+[17:01:23] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: Abhas1
+[17:01:23] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Abhas1
+[17:01:33] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: Ghosh10
+[17:01:33] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Ghosh10
+[17:01:43] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: Bhagya3
+[17:01:43] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Bhagya3
+[17:01:53] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: Bhagya3
+[17:01:53] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Bhagya3
+[17:01:54] [INFO] ParaBankTestingBoth - INFO: Browser closed and WebDriver quit
+[17:07:20] [INFO] Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[17:07:25] [INFO] ParaBankTestingBoth - INFO: Browser launched successfully with URL: https://parabank.parasoft.com/
+[17:07:28] [INFO] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: SaiSundar10
+[17:07:30] [INFO] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Ghosh10
+[17:07:33] [INFO] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Abhas1
+[17:07:35] [INFO] ParaBankTestingBoth - WARN: Registration failed -> Username already exists: Bhagya3
+[17:07:53] [INFO] ParaBankTestingBoth - ERROR: Login failed for user: Ghosh10
+[17:07:53] [INFO] ParaBankTestingBoth - FATAL: Critical login failure detected for user: Ghosh10
+[17:07:54] [INFO] ParaBankTestingBoth - INFO: Browser closed and WebDriver quit
