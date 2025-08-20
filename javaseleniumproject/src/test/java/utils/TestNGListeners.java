@@ -1,4 +1,4 @@
- package javaselenium1;
+ package utils;
 
  import java.io.File;
  import java.io.IOException;
@@ -90,7 +90,7 @@
 
  			".png" → adds .png extension for the screenshot.*/
          	
-         	dest.getParentFile().mkdir();//creat folder if not exist
+         	dest.getParentFile().mkdir();//create folder if not exist
          	try {
          		Files.copy(src.toPath(), dest.toPath(), StandardCopyOption.REPLACE_EXISTING);
          		// Attach screenshot to Extent Report

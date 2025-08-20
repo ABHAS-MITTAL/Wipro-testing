@@ -1,4 +1,4 @@
-package javaselenium1;
+package utils;
 
 
 import java.io.FileInputStream;

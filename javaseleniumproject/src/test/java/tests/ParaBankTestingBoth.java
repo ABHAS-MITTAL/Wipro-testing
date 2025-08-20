@@ -1,4 +1,4 @@
-package javaselenium1;
+package tests;
 
 import java.io.IOException;
 import java.time.Duration;
@@ -15,7 +15,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
-@Listeners(javaselenium1.TestNGListeners.class)
+import utils.DataProviders;
+import utils.TestNGListeners;
+
+@Listeners(utils.TestNGListeners.class)
 public class ParaBankTestingBoth {
     public WebDriver driver;
     public WebDriverWait wait;
@@ -91,7 +94,7 @@ public class ParaBankTestingBoth {
 
     // ================== LOGIN ==================
     @Test(groups = {"smoke"}, priority = 2, dataProvider = "logInTestData", dataProviderClass = DataProviders.class,
-            invocationCount = 2, threadPoolSize = 2)
+            invocationCount =1)// , threadPoolSize = 2)
     public void Login(String username, String password) {
         logger.info("Attempting login for user: {}", username);
 

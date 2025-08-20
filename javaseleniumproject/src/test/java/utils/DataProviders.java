@@ -1,4 +1,4 @@
-package javaselenium1;
+package utils;
 
 import java.io.IOException;
 import org.testng.annotations.DataProvider;
@@ -6,7 +6,7 @@ import org.testng.annotations.DataProvider;
 public class DataProviders {
 
     // Login Data Provider
-    @DataProvider(name = "logInTestData", parallel = true)
+    @DataProvider(name = "logInTestData", parallel = false)
     public static Object[][] logInData() throws IOException {
         return Excelutils.getTestData("src/test/resources/RegisterData.xlsx", "LoginSheet");
     }

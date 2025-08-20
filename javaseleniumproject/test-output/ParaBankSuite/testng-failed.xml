@@ -10,13 +10,13 @@
       </run>
     </groups>
     <classes>
-      <class name="javaselenium1.ParaBankTestingBoth">
+      <class name="tests.ParaBankTestingBoth">
         <methods>
           <include name="LaunchBrowser"/>
           <include name="afterClass"/>
           <include name="Login"/>
         </methods>
-      </class> <!-- javaselenium1.ParaBankTestingBoth -->
+      </class> <!-- tests.ParaBankTestingBoth -->
     </classes>
   </test> <!-- RegressionTests(failed) -->
 </suite> <!-- Failed suite [ParaBankSuite] -->

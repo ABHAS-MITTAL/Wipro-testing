@@ -13,7 +13,7 @@
 		name="Selenium.ParaBankTesting"> <methods> <include name="LaunchBrowser"></include> 
 		<include name="Login"></include> </methods> </class> </classes> </test> -->
 	<listeners>
-		<listener class-name="javaselenium1.TestNGListeners" />
+		<listener class-name="utils.TestNGListeners" />
 	</listeners>
 
 	<test name="Smoke Tests">
@@ -27,7 +27,7 @@
 			<!-- Smoke helps to hide -->
 		</groups>
 		<classes>
-			<class name="javaselenium1.ParaBankTestingBoth" />
+			<class name="tests.ParaBankTestingBoth" />
 		</classes>
 	</test>
 

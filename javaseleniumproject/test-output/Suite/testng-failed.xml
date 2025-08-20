@@ -4,7 +4,7 @@
   <parameter name="browserName" value="Chrome"/>
   <parameter name="url" value="https://parabank.parasoft.com/"/>
   <listeners>
-    <listener class-name="javaselenium1.TestNGListeners"/>
+    <listener class-name="utils.TestNGListeners"/>
   </listeners>
   <test thread-count="5" name="Smoke Tests(failed)">
     <groups>
@@ -14,13 +14,13 @@
       </run>
     </groups>
     <classes>
-      <class name="javaselenium1.ParaBankTestingBoth">
+      <class name="tests.ParaBankTestingBoth">
         <methods>
           <include name="LaunchBrowser"/>
           <include name="afterClass"/>
-          <include name="Login"/>
+          <include name="Login" invocation-numbers="0 1 2 3"/>
         </methods>
-      </class> <!-- javaselenium1.ParaBankTestingBoth -->
+      </class> <!-- tests.ParaBankTestingBoth -->
     </classes>
   </test> <!-- Smoke Tests(failed) -->
 </suite> <!-- Failed suite [Suite] -->

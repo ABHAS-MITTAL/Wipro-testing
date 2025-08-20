@@ -110,3 +110,207 @@
 [2025-08-19 17:23:06] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
 [2025-08-19 17:23:24] ERROR ParaBankTestingBoth - Login failed for user: Bhagya3
 [2025-08-19 17:23:25] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 17:41:40] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 17:41:40] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 17:41:44] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 17:41:45] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar10
+[2025-08-20 17:41:47] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar10 (already exists)
+[2025-08-20 17:41:47] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh10
+[2025-08-20 17:41:50] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh10 (already exists)
+[2025-08-20 17:41:50] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas1
+[2025-08-20 17:41:52] WARN  ParaBankTestingBoth - Registration failed for username: Abhas1 (already exists)
+[2025-08-20 17:41:52] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya3
+[2025-08-20 17:42:04] INFO  ParaBankTestingBoth - Registration successful for username: Bhagya3
+[2025-08-20 17:42:05] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-20 17:42:05] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-20 17:42:05] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-20 17:42:05] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-20 17:42:05] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-20 17:42:05] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-20 17:42:05] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-20 17:42:05] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-20 17:42:24] ERROR ParaBankTestingBoth - Login failed for user: Abhas1
+[2025-08-20 17:42:25] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 17:45:40] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 17:45:40] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 17:45:44] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 17:45:44] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar10
+[2025-08-20 17:45:47] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar10 (already exists)
+[2025-08-20 17:45:47] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh10
+[2025-08-20 17:45:50] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh10 (already exists)
+[2025-08-20 17:45:50] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas1
+[2025-08-20 17:45:52] WARN  ParaBankTestingBoth - Registration failed for username: Abhas1 (already exists)
+[2025-08-20 17:45:52] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya3
+[2025-08-20 17:45:55] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya3 (already exists)
+[2025-08-20 17:45:55] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-20 17:45:55] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-20 17:45:55] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-20 17:45:55] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-20 17:45:55] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-20 17:45:55] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-20 17:45:55] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-20 17:45:55] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-20 17:46:13] ERROR ParaBankTestingBoth - Login failed for user: Abhas1
+[2025-08-20 17:46:14] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 17:48:20] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 17:48:20] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 17:48:24] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 17:48:25] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar10
+[2025-08-20 17:48:28] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar10 (already exists)
+[2025-08-20 17:48:28] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh10
+[2025-08-20 17:48:31] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh10 (already exists)
+[2025-08-20 17:48:31] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas1
+[2025-08-20 17:48:33] WARN  ParaBankTestingBoth - Registration failed for username: Abhas1 (already exists)
+[2025-08-20 17:48:33] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya3
+[2025-08-20 17:48:35] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya3 (already exists)
+[2025-08-20 17:48:35] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-20 17:48:35] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-20 17:48:48] ERROR ParaBankTestingBoth - Login failed for user: SaiSundar10
+[2025-08-20 17:48:48] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-20 17:48:49] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-20 17:49:01] ERROR ParaBankTestingBoth - Login failed for user: Ghosh10
+[2025-08-20 17:49:01] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-20 17:49:01] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-20 17:49:14] ERROR ParaBankTestingBoth - Login failed for user: Abhas1
+[2025-08-20 17:49:14] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-20 17:49:14] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-20 17:49:27] ERROR ParaBankTestingBoth - Login failed for user: Bhagya3
+[2025-08-20 17:49:27] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 17:50:17] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 17:50:17] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 17:50:21] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 17:50:22] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar10
+[2025-08-20 17:50:25] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar10 (already exists)
+[2025-08-20 17:50:25] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh10
+[2025-08-20 17:50:27] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh10 (already exists)
+[2025-08-20 17:50:27] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas1
+[2025-08-20 17:50:30] WARN  ParaBankTestingBoth - Registration failed for username: Abhas1 (already exists)
+[2025-08-20 17:50:30] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya3
+[2025-08-20 17:50:32] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya3 (already exists)
+[2025-08-20 17:50:32] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-20 17:50:44] ERROR ParaBankTestingBoth - Login failed for user: SaiSundar10
+[2025-08-20 17:50:44] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-20 17:50:56] ERROR ParaBankTestingBoth - Login failed for user: Ghosh10
+[2025-08-20 17:50:56] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-20 17:51:07] ERROR ParaBankTestingBoth - Login failed for user: Abhas1
+[2025-08-20 17:51:08] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-20 17:51:19] ERROR ParaBankTestingBoth - Login failed for user: Bhagya3
+[2025-08-20 17:51:20] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 17:57:49] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 17:57:49] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 17:57:54] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 17:57:54] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar10
+[2025-08-20 17:57:57] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar10 (already exists)
+[2025-08-20 17:57:57] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh10
+[2025-08-20 17:58:00] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh10 (already exists)
+[2025-08-20 17:58:00] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas1
+[2025-08-20 17:58:02] WARN  ParaBankTestingBoth - Registration failed for username: Abhas1 (already exists)
+[2025-08-20 17:58:02] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya3
+[2025-08-20 17:58:05] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya3 (already exists)
+[2025-08-20 17:58:05] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar10
+[2025-08-20 17:58:16] ERROR ParaBankTestingBoth - Login failed for user: SaiSundar10
+[2025-08-20 17:58:16] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh10
+[2025-08-20 17:58:28] ERROR ParaBankTestingBoth - Login failed for user: Ghosh10
+[2025-08-20 17:58:28] INFO  ParaBankTestingBoth - Attempting login for user: Abhas1
+[2025-08-20 17:58:40] ERROR ParaBankTestingBoth - Login failed for user: Abhas1
+[2025-08-20 17:58:40] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya3
+[2025-08-20 17:58:51] ERROR ParaBankTestingBoth - Login failed for user: Bhagya3
+[2025-08-20 17:58:52] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 18:06:06] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 18:06:06] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 18:06:10] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 18:06:10] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar101
+[2025-08-20 18:06:23] INFO  ParaBankTestingBoth - Registration successful for username: SaiSundar101
+[2025-08-20 18:06:24] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh102
+[2025-08-20 18:06:36] INFO  ParaBankTestingBoth - Registration successful for username: Ghosh102
+[2025-08-20 18:06:37] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas103
+[2025-08-20 18:06:50] INFO  ParaBankTestingBoth - Registration successful for username: Abhas103
+[2025-08-20 18:06:50] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya104
+[2025-08-20 18:07:03] INFO  ParaBankTestingBoth - Registration successful for username: Bhagya104
+[2025-08-20 18:07:04] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar101
+[2025-08-20 18:07:15] ERROR ParaBankTestingBoth - Login failed for user: SaiSundar101
+[2025-08-20 18:07:15] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh102
+[2025-08-20 18:07:27] ERROR ParaBankTestingBoth - Login failed for user: Ghosh102
+[2025-08-20 18:07:27] INFO  ParaBankTestingBoth - Attempting login for user: Abhas103
+[2025-08-20 18:07:39] ERROR ParaBankTestingBoth - Login failed for user: Abhas103
+[2025-08-20 18:07:39] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya104
+[2025-08-20 18:07:51] ERROR ParaBankTestingBoth - Login failed for user: Bhagya104
+[2025-08-20 18:07:51] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 18:14:47] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 18:14:48] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 18:14:53] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 18:14:54] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar101
+[2025-08-20 18:14:57] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar101 (already exists)
+[2025-08-20 18:14:57] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh102
+[2025-08-20 18:15:00] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh102 (already exists)
+[2025-08-20 18:15:00] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas103
+[2025-08-20 18:15:02] WARN  ParaBankTestingBoth - Registration failed for username: Abhas103 (already exists)
+[2025-08-20 18:15:02] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya104
+[2025-08-20 18:15:05] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya104 (already exists)
+[2025-08-20 18:15:05] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar101
+[2025-08-20 18:15:16] ERROR ParaBankTestingBoth - Login failed for user: SaiSundar101
+[2025-08-20 18:15:17] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh102
+[2025-08-20 18:15:28] ERROR ParaBankTestingBoth - Login failed for user: Ghosh102
+[2025-08-20 18:15:28] INFO  ParaBankTestingBoth - Attempting login for user: Abhas103
+[2025-08-20 18:15:41] ERROR ParaBankTestingBoth - Login failed for user: Abhas103
+[2025-08-20 18:15:41] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya104
+[2025-08-20 18:15:54] ERROR ParaBankTestingBoth - Login failed for user: Bhagya104
+[2025-08-20 18:15:54] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 18:18:06] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 18:18:06] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 18:18:12] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 18:18:12] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar101
+[2025-08-20 18:18:15] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar101 (already exists)
+[2025-08-20 18:18:15] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh102
+[2025-08-20 18:18:18] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh102 (already exists)
+[2025-08-20 18:18:18] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas103
+[2025-08-20 18:18:20] WARN  ParaBankTestingBoth - Registration failed for username: Abhas103 (already exists)
+[2025-08-20 18:18:20] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya104
+[2025-08-20 18:18:22] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya104 (already exists)
+[2025-08-20 18:18:23] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar101
+[2025-08-20 18:18:35] ERROR ParaBankTestingBoth - Login failed for user: SaiSundar101
+[2025-08-20 18:18:35] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh102
+[2025-08-20 18:18:46] ERROR ParaBankTestingBoth - Login failed for user: Ghosh102
+[2025-08-20 18:18:46] INFO  ParaBankTestingBoth - Attempting login for user: Abhas103
+[2025-08-20 18:18:59] ERROR ParaBankTestingBoth - Login failed for user: Abhas103
+[2025-08-20 18:18:59] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya104
+[2025-08-20 18:19:11] ERROR ParaBankTestingBoth - Login failed for user: Bhagya104
+[2025-08-20 18:19:11] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully
+[2025-08-20 18:23:52] INFO  Utils - [TestNG] Running:
+  C:\Users\abhas\git\repository7\javaseleniumproject\testng.xml
+
+[2025-08-20 18:23:52] INFO  ParaBankTestingBoth - Launching browser: Chrome with URL: https://parabank.parasoft.com/
+[2025-08-20 18:23:56] INFO  ParaBankTestingBoth - Browser launched successfully and navigated to https://parabank.parasoft.com/
+[2025-08-20 18:23:57] INFO  ParaBankTestingBoth - Starting registration test for username: SaiSundar101
+[2025-08-20 18:24:01] WARN  ParaBankTestingBoth - Registration failed for username: SaiSundar101 (already exists)
+[2025-08-20 18:24:01] INFO  ParaBankTestingBoth - Starting registration test for username: Ghosh102
+[2025-08-20 18:24:04] WARN  ParaBankTestingBoth - Registration failed for username: Ghosh102 (already exists)
+[2025-08-20 18:24:04] INFO  ParaBankTestingBoth - Starting registration test for username: Abhas103
+[2025-08-20 18:24:07] WARN  ParaBankTestingBoth - Registration failed for username: Abhas103 (already exists)
+[2025-08-20 18:24:07] INFO  ParaBankTestingBoth - Starting registration test for username: Bhagya104
+[2025-08-20 18:24:10] WARN  ParaBankTestingBoth - Registration failed for username: Bhagya104 (already exists)
+[2025-08-20 18:24:10] INFO  ParaBankTestingBoth - Attempting login for user: SaiSundar101
+[2025-08-20 18:24:22] ERROR ParaBankTestingBoth - Login failed for user: SaiSundar101
+[2025-08-20 18:24:22] INFO  ParaBankTestingBoth - Attempting login for user: Ghosh102
+[2025-08-20 18:24:34] ERROR ParaBankTestingBoth - Login failed for user: Ghosh102
+[2025-08-20 18:24:34] INFO  ParaBankTestingBoth - Attempting login for user: Abhas103
+[2025-08-20 18:24:45] ERROR ParaBankTestingBoth - Login failed for user: Abhas103
+[2025-08-20 18:24:46] INFO  ParaBankTestingBoth - Attempting login for user: Bhagya104
+[2025-08-20 18:24:57] ERROR ParaBankTestingBoth - Login failed for user: Bhagya104
+[2025-08-20 18:24:57] INFO  ParaBankTestingBoth - Browser closed and WebDriver quit successfully

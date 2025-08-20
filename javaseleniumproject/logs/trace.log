@@ -114,8 +114,8 @@
 [17:07:20] [TRACE] Graph - [Graph] =============== DONE SORTING
 [17:07:20] [TRACE] Graph - [Graph] ====== SORTED NODES
 [17:07:20] [TRACE] Graph - [Graph] ====== END SORTED NODES
-[17:07:20] [TRACE] Graph - [Graph] ADDING NODE ParaBankTestingBoth.RegisterNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:javaselenium1.ParaBankTestingBoth@3724af13] 1717335844
-[17:07:20] [TRACE] Graph - [Graph] ADDING NODE ParaBankTestingBoth.Login(java.lang.String,java.lang.String)[pri:2, instance:javaselenium1.ParaBankTestingBoth@3724af13] -1897298621
+[17:07:20] [TRACE] Graph - [Graph] ADDING NODE ParaBankTestingBoth.RegisterNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.ParaBankTestingBoth@3724af13] 1717335844
+[17:07:20] [TRACE] Graph - [Graph] ADDING NODE ParaBankTestingBoth.Login(java.lang.String,java.lang.String)[pri:2, instance:tests.ParaBankTestingBoth@3724af13] -1897298621
 [17:07:20] [TRACE] Graph - [Graph] ================ SORTING
 [17:07:20] [TRACE] Graph - [Graph] =============== DONE SORTING
 [17:07:20] [TRACE] Graph - [Graph] ====== SORTED NODES
@@ -214,8 +214,8 @@
 [17:07:54] [TRACE] ParaBankTestingBoth - TRACE: Entering afterClass() for cleanup...
 [17:07:54] [TRACE] ParaBankTestingBoth - DEBUG: WebDriver.quit() executed successfully
 [17:07:54] [TRACE] ParaBankTestingBoth - INFO: Browser closed and WebDriver quit
-[17:07:55] [TRACE] Graph - [Graph] ADDING NODE ParaBankTestingBoth.RegisterNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:javaselenium1.ParaBankTestingBoth@3724af13] 1717335844
-[17:07:55] [TRACE] Graph - [Graph] ADDING NODE ParaBankTestingBoth.Login(java.lang.String,java.lang.String)[pri:2, instance:javaselenium1.ParaBankTestingBoth@3724af13] -1897298621
+[17:07:55] [TRACE] Graph - [Graph] ADDING NODE ParaBankTestingBoth.RegisterNewUser(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:tests.ParaBankTestingBoth@3724af13] 1717335844
+[17:07:55] [TRACE] Graph - [Graph] ADDING NODE ParaBankTestingBoth.Login(java.lang.String,java.lang.String)[pri:2, instance:tests.ParaBankTestingBoth@3724af13] -1897298621
 [17:07:55] [TRACE] Graph - [Graph] ================ SORTING
 [17:07:55] [TRACE] Graph - [Graph] =============== DONE SORTING
 [17:07:55] [TRACE] Graph - [Graph] ====== SORTED NODES
